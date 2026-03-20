@@ -1,3 +1,3 @@
 print("Main v0.2 gestartet")
-peripherals.wrap("left").clear()
-peripherals.wrap("left").write("MAC-Netzwerk")
+peripheral.wrap("left").clear()
+peripheral.wrap("left").write("MAC-Netzwerk")

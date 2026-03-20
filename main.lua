@@ -9,7 +9,7 @@
 -- └─────────────────────────────────────────────────────────┘
 
 local CONFIG = {
-    monitor_side    = "top",        -- Seite des Monitors
+    monitor_side    = "left",        -- Seite des Monitors
     refresh_rate    = 1,            -- Sekunden zwischen Updates
     history_size    = 60,           -- Datenpunkte für Graph (= 60s)
     warn_threshold  = 0.25,         -- Warnung unter 25% Kapazität
